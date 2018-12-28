@@ -1,9 +1,9 @@
 <?php
 
 $host = 'localhost';
-$user = 'root';
-$pass = '';
-$db = 'bands';
+$user = 'erfan';
+$pass = 'sXdG1234_666';
+$db = 'avoid_rafa';
 
 
 $link = mysqli_connect($host, $user, $pass);
